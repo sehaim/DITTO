@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+exec/11기_공통PJT_UCC_A106.mp4 filter=lfs diff=lfs merge=lfs -text
+exec/11기_공통PJT_발표자료_A106.pptx filter=lfs diff=lfs merge=lfs -text
