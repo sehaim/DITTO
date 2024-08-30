@@ -8,8 +8,6 @@
 </div>
 <br />
 
-> 서비스 바로가기 <br /> > **https://i11a106.p.ssafy.io**
-
 <br/>
 <div align="center">
   <a href="https://i11a106.p.ssafy.io/">홈페이지 </a>
