@@ -3,7 +3,9 @@
   <p>🎨 DIY 온라인 취미 클래스 및 공유 플랫폼 🎨</p>
 </div>
 
-<img src="./assets/image1.png" alt="Logo" align="center"/>
+<div align="center">
+<img src="./assets/image1.png" alt="Logo" />
+</div>
 <br />
 
 > 서비스 바로가기 <br /> > **https://i11a106.p.ssafy.io**
