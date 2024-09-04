@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Do IT TOgether (DITTO)</h1>
-  <p>🎨 DIY 온라인 취미 클래스 및 공유 플랫폼 🎨</p>
+  <p>🎨 온라인 DIY 취미 클래스 및 공유 플랫폼 🎨</p>
 </div>
 
 <div align="center">
