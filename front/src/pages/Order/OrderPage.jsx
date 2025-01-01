@@ -281,15 +281,14 @@ function OrderPage() {
 
       return;
     }
-    // 결제를 요청하기 전에 orderId, amount를 서버에 저장하세요.
-    // 결제 과정에서 악의적으로 결제 금액이 바뀌는 것을 확인하는 용도입니다.
+    // orderId, amount를 서버에 저장
     await payment.requestPayment({
       method: "CARD", // 카드 결제
       amount: {
         currency: "KRW",
         value: totalPrice,
       },
-      orderId: uuidv4(), // 고유 주분번호
+      orderId: uuidv4(), // 고유 주문번호
       orderName: classInfo?.className,
       successUrl:
         `${window.location.origin}/order` +
@@ -297,7 +296,7 @@ function OrderPage() {
       failUrl: window.location.origin + "/fail", // 결제 요청이 실패하면 리다이렉트되는 URL
       customerEmail: email,
       customerName: nickname,
-      // customerMobilePhone: nickname,
+      
       // 카드 결제에 필요한 정보
       card: {
         useEscrow: false,
