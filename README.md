@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Do IT TOgether (DITTO)</h1>
   <p>🎨 온라인 DIY 취미 클래스 및 공유 플랫폼 🎨</p>
+  <p>👑 SSAFY 11기 공통 프로젝트 우수상 수상 👑</p>
+
 </div>
 
 <div align="center">
@@ -26,7 +28,6 @@
 
 - **프로젝트 명:** Do IT TOgether (DITTO)
 - **프로젝트 기간:** 2024.07.01 ~ 2024.08.16
-- **👑 SSAFY 11기 공통 프로젝트 우수상 수상 👑**
 
 ## ✍️ 프로젝트 소개
 
