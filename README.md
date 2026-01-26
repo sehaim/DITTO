@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Do IT TOgether (DITTO)</h1>
   <p>🎨 온라인 DIY 취미 클래스 및 공유 플랫폼 🎨</p>
-  <p>👑 SSAFY 11기 공통 프로젝트 우수상 수상 👑</p>
+  <p>👑 SSAFY 11기 공통 프로젝트 우수상 수상 (서울 1반 3위) 👑</p>
 
 </div>
 
